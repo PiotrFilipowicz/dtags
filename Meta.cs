@@ -14,8 +14,6 @@ namespace dtags {
             }
 
             Out("REM YEAR {0}\r\n", disc.Album.Year);
-
-            Out("REM YEAR {0}\r\n", disc.Album.Year);
             Out("REM RELEASEID {0}\r\n", disc.Album.ReleaseId);
             Out("REM MASTERID {0}\r\n", disc.Album.MasterId);
             Out("REM RECENTID {0}\r\n", disc.Album.RecentId);
