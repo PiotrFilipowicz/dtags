@@ -1,0 +1,5 @@
+/.vs/
+/bin/
+/obj/
+/dtags.csproj.user
+/Properties/PublishProfiles/*.user

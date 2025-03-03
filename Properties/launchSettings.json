@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ndcue": {
+      "commandName": "Project",
+      "commandLineArgs": "[r5302954]"
+    }
+  }
+}
